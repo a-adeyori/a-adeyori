@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **adekunleadeyori@gmail**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1DI3SLu7vo2v_7Yu5creXrHHv0R7t-lyEkZ5OTXL7Egg/edit?usp=drive_web&ouid=105835749412947002956](https://docs.google.com/document/d/1DI3SLu7vo2v_7Yu5creXrHHv0R7t-lyEkZ5OTXL7Egg/edit?usp=drive_web&ouid=105835749412947002956)
+- 📄 Know about my experiences [here]([url](https://docs.google.com/document/d/1xWchVFtowqtLZAsG1-Di4f91-C6_axhARWgUn6hI594/edit?usp=sharing)
 
 - ⚡ Fun fact **I love playing basketball**
 
