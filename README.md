@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adeyori</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">An Aspiring Software Engineer</h3>
 
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
