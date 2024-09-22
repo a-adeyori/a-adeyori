@@ -6,7 +6,7 @@
 #### About
 - 🔭 I’m currently working on [WeatherApp dashboard](https://github.com/a-adeyori/WeatherApp_Dashboard)
 
-- 🌱 I’m currently learning **React, Tailwind , Flask**
+- 🌱 I’m currently learning **React, Tailwind & Flask**
 
 - 👨‍💻 All of my projects are available [here](https://a-adeyori.github.io/Portfolio-Website/)
 
