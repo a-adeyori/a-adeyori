@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, Tailwind & Flask**
 
-- 👨‍💻 All of my projects are available [here](https://a-adeyori.github.io/Portfolio-Website/)
+- 👨‍💻 Know more about me [here](https://adeyori.me)
 
 - 📫 How to reach me **adekunleadeyori@gmail**
 
