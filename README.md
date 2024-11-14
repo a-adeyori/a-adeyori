@@ -4,9 +4,10 @@
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 #### About
-- 🔭 I’m currently working on [Thrive](https://drive.google.com/file/d/1h9h0aObV2FUQay35LCCBSwvoCCZxLZnB/view?usp=drive_link), Math and CS research
+- 🔭 I’m currently working on [Thrive](https://www.aamu.edu/about/inside-aamu/news/students-created-ai-assisted-mental-health-platform-for-black-and-hispanic-communities.html
+), Math and CS research
 
-- 🌱 I’m currently learning **React, Tailwind & Flask**
+- 🌱 I’m currently learning **Hardware, Embedded Systes, React, Tailwind & Flask**
 
 - 👨‍💻 Know more about me [here](https://adeyori.me)
 
