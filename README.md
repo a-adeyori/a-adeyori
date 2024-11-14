@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [Thrive](https://www.aamu.edu/about/inside-aamu/news/students-created-ai-assisted-mental-health-platform-for-black-and-hispanic-communities.html
 ), Math and CS research
 
-- 🌱 I’m currently learning **Hardware, Embedded Systes, React, Tailwind & Flask**
+- 🌱 I’m currently learning **DSA & Algo, Arduino, Raspberry pi, React, Tailwind & Flask**
 
 - 👨‍💻 Know more about me [here](https://adeyori.me)
 
