@@ -2,7 +2,6 @@
 <a href=""><img src ="https://readme-typing-svg.herokuapp.com?font=Rubik+Doodle+Shadow&size=35&pause=2000&color=74807E&width=435&lines=Hi+I'm+Adeyori+Adekunle" alt="Typing SVG" /></a>
 </div>
 <h3 align="center">An Aspiring Software Engineer</h3>
-##
 
 <div align="center">
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
@@ -29,7 +28,7 @@
 </p>
 
 ## Languages and Tools:
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+<p align="left"> <img style="padding-right:10px;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img style="padding-right:10px;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><img style="padding-right:10px;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img style="padding-right:10px;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img style="padding-right:10px;"src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/><img style="padding-right:10px;"src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-adeyori&show_icons=true&locale=en&layout=compact&theme=dark" alt="a-adeyori" /></p>
 
