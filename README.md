@@ -1,5 +1,5 @@
 <div align="center">
- <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Doodle+Shadow&size=35&pause=2000&color=A0DA7DC7&center=true&random=false&width=450&lines=Hi+👋+,+I+'+m+ Adeyori" alt="Typing SVG" /></a>
+ <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Doodle+Shadow&size=35&pause=2000&color=A0DA7DC7&center=true&random=false&width=450&lines=Adeyori+Adekunle" alt="Typing SVG" /></a>
 </div>
 <h3 align="center">An Aspiring Software Engineer</h3>
 
