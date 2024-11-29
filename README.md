@@ -2,7 +2,7 @@
 <a href=""><img src ="https://readme-typing-svg.herokuapp.com?font=Rubik+Doodle+Shadow&size=35&pause=2000&color=74807E&width=435&lines=Hi+I'm+Adeyori+Adekunle" alt="Typing SVG" /></a>
 </div>
 <p align="center">
-<a href="https://adeyori.me/"><img src="https://img.shields.io/badge/-Website-grey?style=for-the-badge&logo=Vercel&logoColor=white"/></a> &nbsp; <a href="mailto:adekunleadeyori@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a> &nbsp; <a href="https://www.linkedin.com/in/adeyoriadekunle"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a> 
+<a href="https://adeyori.me/"><img src="https://img.shields.io/badge/-Website-grey?style=for-the-badge&logo=Vercel&logoColor=white"/></a> &nbsp; <a href="mailto:adekunleadeyori@gmail.com"><img src="https://img.shields.io/badge/-Gmail-grey?style=for-the-badge&logo=Gmail&logoColor=white"/></a> &nbsp; <a href="https://www.linkedin.com/in/adeyoriadekunle"><img src="https://img.shields.io/badge/-LinkedIn-grey?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a> 
 </p>
 <h3 align="center">An Aspiring Software Engineer</h3>
 
