@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Adeyori</h1>
+<div align="center">
+ <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Doodle+Shadow&size=35&pause=2000&color=A0DA7DC7&center=true&random=false&width=450&lines=Hi+👋+,+I+'+m+ Adeyori" alt="Typing SVG" /></a>
+</div>
 <h3 align="center">An Aspiring Software Engineer</h3>
 
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
