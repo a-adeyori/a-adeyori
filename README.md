@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 </div>
 
-## About
+### About
 > 🔭 I’m currently working on [Thrive](https://www.aamu.edu/about/inside-aamu/news/students-created-ai-assisted-mental-health-platform-for-black-and-hispanic-communities.html
 ), CS and Math research
 
