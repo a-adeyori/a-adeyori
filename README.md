@@ -15,7 +15,7 @@
 ), CS and Math research</br>
 🌱 Currently learning **DSA, Robotics, Arduino, Raspberry pi, React, Tailwind & Flask**</br>
 📄 Know about my experiences [here](https://drive.google.com/file/d/15WPG4I7_Y5v7kMRE-UxxsPeV4xQBVMcR/view?usp=sharing)</br>
-⚡ Fun fact **I love playing basketball**
+⚡ Fun fact **I love playing basketball** (lol as you can tell)
 
 ## Connect with me:
 <p align="left">
