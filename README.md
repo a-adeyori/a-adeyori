@@ -7,7 +7,7 @@
 <h3 align="center">An Aspiring Software Engineer</h3>
 
 <div align="center">
-<img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<img align="right" alt="Coding" width="290" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 </div>
 
 ### About
