@@ -7,7 +7,7 @@
 
 #### About
 - 🔭 I’m currently working on [Thrive](https://www.aamu.edu/about/inside-aamu/news/students-created-ai-assisted-mental-health-platform-for-black-and-hispanic-communities.html
-), Math and CS research
+), CS and Math research
 
 - 🌱 I’m currently learning **DSA & Algo, Robotics, Arduino, Raspberry pi, React, Tailwind & Flask**
 
