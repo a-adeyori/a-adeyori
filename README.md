@@ -12,16 +12,10 @@
 
 ### About
 > 🔭 I’m currently working on [Thrive](https://www.aamu.edu/about/inside-aamu/news/students-created-ai-assisted-mental-health-platform-for-black-and-hispanic-communities.html
-), CS and Math research
-
->🌱 I’m currently learning **DSA & Algo, Robotics, Arduino, Raspberry pi, React, Tailwind & Flask**
-
-> 👨‍💻 Know more about me [here](https://adeyori.me)
-
-> 📫 How to reach me **adekunleadeyori@gmail**
-
-> 📄 Know about my experiences [here](https://drive.google.com/file/d/15WPG4I7_Y5v7kMRE-UxxsPeV4xQBVMcR/view?usp=sharing)
-> ⚡ Fun fact **I love playing basketball**
+), CS and Math research</break>
+🌱 I’m currently learning **DSA & Algo, Robotics, Arduino, Raspberry pi, React, Tailwind & Flask**</break>
+ 📄 Know about my experiences [here](https://drive.google.com/file/d/15WPG4I7_Y5v7kMRE-UxxsPeV4xQBVMcR/view?usp=sharing)</break>
+ ⚡ Fun fact **I love playing basketball**</break>
 
 ## Connect with me:
 <p align="left">
