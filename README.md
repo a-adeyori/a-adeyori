@@ -1,7 +1,8 @@
 <div align="center">
 <a href=""><img src ="https://readme-typing-svg.herokuapp.com?font=Rubik+Doodle+Shadow&size=35&pause=2000&color=74807E&width=435&lines=Hi+I'm+Adeyori+Adekunle" alt="Typing SVG" /></a>
 </div>
-## <h3 align="center">An Aspiring Software Engineer</h3>
+<h3 align="center">An Aspiring Software Engineer</h3>
+##
 
 <div align="center">
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
