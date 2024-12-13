@@ -13,7 +13,7 @@
 ### About
 > 🔭 I’m currently working on [Thrive](https://www.aamu.edu/about/inside-aamu/news/students-created-ai-assisted-mental-health-platform-for-black-and-hispanic-communities.html
 ), CS and Math research</br>
-🌱 Currently learning **DSA, Robotics, Arduino, Raspberry pi, React, Tailwind & Flask**</br>
+🌱 Currently learning **DSA, HardWare Stack & M/PERN Stack**</br>
 📄 Know about my experiences [here](https://drive.google.com/file/d/15WPG4I7_Y5v7kMRE-UxxsPeV4xQBVMcR/view?usp=sharing)</br>
 ⚡ Fun fact **I love playing basketball** (lol as you can tell)
 
