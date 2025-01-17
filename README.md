@@ -14,7 +14,7 @@
 > 🔭 I’m currently working on [Thrive](https://www.aamu.edu/about/inside-aamu/news/students-created-ai-assisted-mental-health-platform-for-black-and-hispanic-communities.html
 ), CS and Math research</br>
 🌱 Currently learning **DSA, HardWare Stack & M/PERN Stack**</br>
-📄 Know about my experiences [here](https://drive.google.com/file/d/1TPuOZTY753qbiKGo2fiIBQT1He1ZFYpm/view?usp=sharing)</br>
+📄 Know about my experiences [here](https://drive.google.com/file/d/1mSxI0CZfKn4dJPfTWqyM0A2wxGlkoI-S/view?usp=sharing)</br>
 ⚡ Fun fact **I love playing basketball** (lol as you can tell)
 
 ## Connect with me:
